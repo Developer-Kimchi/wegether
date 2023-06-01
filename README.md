@@ -13,11 +13,12 @@
 
 
 <h2>2. 기대 효과</h2>
-<img src="https://drive.google.com/file/d/1Hk4ayGVILycuikcoEUQBX9BZghNU_JPn/view?usp=drive_link" style = "width: 80%; height : 480">
-STEP 1. 베테랑 연수자와 초보 연수자가 원하는 날짜와 지역을 선택할 수 있게 하여 시간과 장소에 구애받지 않도록 한다. 따라서 바쁜 현대인들도 정해진 스케줄이 아니라 맞춤형 검색 시스템을 이용하여 사용자들의 편의를 제공한다.<br>
-STEP 2. 코스별로 금액을 지정하여 사용자간 금전거래가 이루어진다. 이를 통하여 연수의 선순환을 창출하고 회원간 연수를 독려한다.<br>
-STEP 3. 운전연수의 접근성을 용이하게 하여 초보운전자들의 운전경험이 많아진다면 결국 운전미숙으로 일어나는 사고는 감소하게 될 것이다. <br><br>
-교차로 프로젝트는 초보자들의 운전연수 경험을 통해 실력을 향상시킴으로서 최종적으로는 교통사고율을 감소시킬 수 있도록 기획하였다. <br>
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaVAhyVDEJFBBHukHBDTvEvGJ46KHCzWIfz1pD7c-tXX6nq85T9AC4XH1dOvS9EejoM3LMQqmw2tlem167_YnXHg4hHVSdlsz12FizJW0VmJjd-7C7-C71x3ONo6uFbuXnRCjnb2hM6ed-RfajmoBZlqe3ExNFSAzl23fsgP7TTAGgJa9Amob1dANlTMSb33xotIkVnZQrflv6qnPsvBFqPtnNIaclxtYOjWVvNxx37QgjZfE2bZeXbxy7IDf9qtgJ2ytuxaBVNL6AyXfp9WS2V7G95ppP1bObCmpcpp6n81SKtsP7uQLCdNEJjc5cs79T1oZKdbEKXTUWghYSIjFMz2yTQCN_bucSVswLfteuQ-EH86WeTrD0LHgSlpoD6pd5kSbCPXjHncIl3VU38IXIgBZgw_pYeSEZoO_LkvA9sio-usTG532csweu7E5SKQJnbyxcCy8yEa1s7sVIw3GUkzuUczqn5MA8HFv9u1JSQawY9aNAeyjQyawZcDuUBjwOc55idJoX09-bzxsc-QBBSZjAcSrd7Cp8Yggr95yKn1y_3DGpPH44mwcY1L94-UzMjJQdYnZ6adpy8C3EIZreP3WgQ-tA4JbwJhqKlOMTjOOeTB6GRVIldWFKxuoTnSkA5ENm-nKqEmKwAKQUQ1cSTeie0BARfmAK1PW5g1-LIgRXKCG46pyIOvbH_RjMSmqkRhuYfZ73YeXdFgX75UVcMZz_TtGm7lTnAx2kUEeqZmoC-xgcs9xSDuxzgl-mMK7myLbaCQIybf_WutfOXg88pyQsjQFytWxgsBUFlIhXq8_36OvT3N3GfPv5VLijXNI4jcLA5sz1iI4IbHZdGzPhcXK2OXGv_ApO88BJERSwhsOCQ03LVclqmRULcBfbeIzVkvwjtITTLWmomvOticGQ16=w1612-h867-s-no?authuser=0" style = "width: 80%; height : 480">
+
+1. 다양한 전공 관련 자료 접근성 증진에 기인한 대학 수준 상향 평준화<br>
+2. 대학생 커뮤니티 관련 플랫폼 구축<br>
+3. 커뮤니케이션 스킬 및 협업 능력 향상<br>
+4. 입시 관련 상담 및 정보 제공으로 인한 입시 스트레스 완화<br>
 
 
 <h2>3. 프로젝트 사용 툴</h2>
@@ -27,7 +28,7 @@ STEP 3. 운전연수의 접근성을 용이하게 하여 초보운전자들의 �
 - jQuery<br>
 - MyBatis<br>
 - Spring Boot<br>
-- MySQL<br>
+- Oracle<br>
 - Visual Studio Code<br>
 - DBeaver<br>
 - Sourcetree<br>
@@ -37,11 +38,12 @@ STEP 3. 운전연수의 접근성을 용이하게 하여 초보운전자들의 �
 - JDK 11.0.15<br>
 - Naver DEVELOPER API<br>
 - Kakao DEVELOPER API<br>
-- SMTP Gmail API<br>
-- Google Cloud Vision API<br>
+- Bootpay API<br>
+- Java Mail API<br>
+- O Auth API<br>
 
 <h2>4. ERD</h2>
-<img src="https://lh3.googleusercontent.com/fife/APg5EOZn5xKCrWyBGnAO6Kjx01bUERgnejSENdskzzjHLHZ7qUs14orSZ4Wz1OWtaJXEYj0M80hkwgrPyjyDZOcbKSpMpCrkEXMhi4x5Y5v-u1N1kDPtbV1R5a3_g0kNYdZXqz4e_dBUfe3pRFrlhBAoXIzfakGVh0Y8d9ace1GnHW6CLgYpN3Q-5JwSwVqnjoARfLbclra2nDZhBdBsynQ5mg_oEH9_yMvMX4h0YSbKLxd4YGmF99y59rsywet4KnqO7GEjd-Hi1FSFfHwbTrGWuc_VfoaimRvzs3iF_fpuqS5kOHCGniTIVCJea9y5ugCx4uU0i6ZGIPXeLZTvMFIdyz6mDON3Z03rNjI4n0Hc7FDMLkTSMkVRvbGUtgd1R_-mVj73_DVdbwjx6Ihu13-3EXCz_3n7kYHYgDrgcIKODVEeoSFPveMoaskDRbebJN0HpoF8HKO5f2CjdOMvotoF8ZQf4MDvrBQILWR76FuG8b1hcExzo1ampC-NaCfI1_fgcHJyxkCC212_QKIOqA8ym-31rHGjGKjBGl8qdbeg0LV4Dg_yvpz3NTPFgWcCt7s_LprbPdxQEoP4vDeJvj3qrhuW6AD4e5lI3WXqjZEzMKgDmQOyttVI_4YwRw-gK9Oq04niyoLA71yYKZhKKMqWBc31VBriwH_ti3Ki7Q774PmptzMjR-YJP7JtnpiimA0Hx021O9M5ECCzYtNRsJY8CMoCMPnka-h-Vzwl63EMufAEzDmDWcsSbqRiq8JwZNsSqujdNmGG12vK3yxgTuV2p9y8dC0Uh5uKeG4TQlgm0Z2GoT8ZvIvK2M4dHfpvvLqAEsz2JuzWNvzR9wXFDuaj4vNaG9R8O94mv503Ul8iHw6rPss4Bq-h1Nwo__SxriXxnuRBGpqF1HgxCYz-KLOG3h_GeQ-NYEb2eMifcvEzl5Gc1b47xf-tYnt0qHlug_KCUJE6RHRTzEJGmPqqDmn8JxYsXq6wz-vT0E63bsvj0n-OICQfXVjrh1u61pjbbRp0R-hyICayJl27dKL_GNuAHRatPsraep70-1q9f2iYN69bhBI_3emh0zfN3-ZnS_bynqHa9_9jz7QMO4Vju4yKh-OJZdqJoIkfixRwRqkguWy6g3a2haurb6y1x1FuQletWA6aOf__hmhPKgSDK8L-uH_FedavZ1XcPlA9oiqnZSYuVTAR1xhdYV5yXIkLXGo5nhhpvPZClCfX5S4ybcthVhZ3RllZNELwta-fj6t7-ymz0Ozq3jc9CIv0O4wkauScLMcKb10fb8_Sdm_wS3c6abxmmYzzizIeQyh4nm4jdyGLFH10cL6jLA0t-3sqSORIPKWfviyVEesXbR2JHPTxOI2TuevDzhGcZblAaszMKrCrxlbDz4XA23rgAryHsqq1S9bEYkGaVYph1KOTq1P9aymnOMrJOXoDJygmEkVJDkr52OJ4hzHPStvyYocWCqgSJXPjJQVuVUeEum5MgFB5bP4zHIk9Q2VfN2hqXsu9KxSwnhbP-N4mlo6l8sts=w1920-h929"  style = "width: 80%; height : 480">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaXBlFw1LhRYAUPeSCJceyCwQ2_UjNUtr8F4tf2mDP0A45BfCQ-I0XWYoFYtfzuPEV39y841NWG3CV0iSYLwIDbVKH-qsiooy6CWQJXpOmzJdOWRF6KzaIk3iNOVIWlLerOi_Pp4KPrwqZdXXX4UpqmgRqLjV6cPG9g_R3KDbeVAiWWNQYt9cTtUmQKR8IoZwVcUTqT_4vZVjSamvRlxA1rBdSnAcHKeqShabP5cJ8xgrm-xPiCsoOxo8TTf55bji6jEGL-fn6e-9Cwy8ke-E-fD8C12sJ94VeOI6VZb0v1g9uiTTg93pvi7t3qJ-bIk-lHe0Q2oBXcEpohCy5waKImGbzGLpLxUjfv28Gxc0rG5HvgwbxRgycj_5VS-5SzHVT_3FyoSE8qy0M-UySrj-LA1fQBVMs0t4VLn99nIjy80dJYqnWvu3gU4Rl2rncLr7_chJmZHcHlz44qKslVbJrsTkh5xdfYEieF8bYcKCcAvnTssKrjKqzcaObwCfwUvP0utEH-cHy9b-vnrRcJKirUtrEgqOrSqRWDU8sjJYxsA7od3-OFQp-KI0ilaq8tmNKhXd00K4ixajmP-GBA0VWlNSak6mx-E-oNIzWE0ecSixdn1GA_siWGTBT28O0SwFKM_bjIzwr-dRTNQF72TyECEVYlZ8doAC6lfYjvXBi0CNIZnLSP4iLtLAI5D-HuCeET_4XjD2niu5nN_mJpj2c3W3WzuFwkD1kp45LsMpj9AXclMwQi_OrhfgWNLQO43YHZ8DGolvYsdRv6DRLSi_9Yv3-nyLJWUWNCKk2nTR-PX4JGNmPbNOZvMVyrWS-8RK_MGWxGvnc_nucvdQLuOA9Bz8cdYPfiUKZxATRcjX_r-NUbkHlHnXW7MkpKMdJ97hjyNvfieQCcK2qo-DI58IuJP=w850-h932-s-no?authuser=0"  style = "width: 80%; height : 480">
 
   
 <h2>5. 담당 업무</h2>
