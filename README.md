@@ -15,7 +15,9 @@
 
 
 <h2>2. 기대 효과</h2>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaVAhyVDEJFBBHukHBDTvEvGJ46KHCzWIfz1pD7c-tXX6nq85T9AC4XH1dOvS9EejoM3LMQqmw2tlem167_YnXHg4hHVSdlsz12FizJW0VmJjd-7C7-C71x3ONo6uFbuXnRCjnb2hM6ed-RfajmoBZlqe3ExNFSAzl23fsgP7TTAGgJa9Amob1dANlTMSb33xotIkVnZQrflv6qnPsvBFqPtnNIaclxtYOjWVvNxx37QgjZfE2bZeXbxy7IDf9qtgJ2ytuxaBVNL6AyXfp9WS2V7G95ppP1bObCmpcpp6n81SKtsP7uQLCdNEJjc5cs79T1oZKdbEKXTUWghYSIjFMz2yTQCN_bucSVswLfteuQ-EH86WeTrD0LHgSlpoD6pd5kSbCPXjHncIl3VU38IXIgBZgw_pYeSEZoO_LkvA9sio-usTG532csweu7E5SKQJnbyxcCy8yEa1s7sVIw3GUkzuUczqn5MA8HFv9u1JSQawY9aNAeyjQyawZcDuUBjwOc55idJoX09-bzxsc-QBBSZjAcSrd7Cp8Yggr95yKn1y_3DGpPH44mwcY1L94-UzMjJQdYnZ6adpy8C3EIZreP3WgQ-tA4JbwJhqKlOMTjOOeTB6GRVIldWFKxuoTnSkA5ENm-nKqEmKwAKQUQ1cSTeie0BARfmAK1PW5g1-LIgRXKCG46pyIOvbH_RjMSmqkRhuYfZ73YeXdFgX75UVcMZz_TtGm7lTnAx2kUEeqZmoC-xgcs9xSDuxzgl-mMK7myLbaCQIybf_WutfOXg88pyQsjQFytWxgsBUFlIhXq8_36OvT3N3GfPv5VLijXNI4jcLA5sz1iI4IbHZdGzPhcXK2OXGv_ApO88BJERSwhsOCQ03LVclqmRULcBfbeIzVkvwjtITTLWmomvOticGQ16=w1612-h867-s-no?authuser=0" style = "width: 80%; height : 480">
+
+![기대효과](https://github.com/Developer-Kimchi/wegether/assets/129861604/b78bc307-c3d5-4f04-aece-9728c434b938)
+
 
 1. 다양한 전공 관련 자료 접근성 증진에 기인한 대학 수준 상향 평준화<br>
 2. 대학생 커뮤니티 관련 플랫폼 구축<br>
