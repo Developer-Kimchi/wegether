@@ -47,7 +47,8 @@
 - O Auth API<br>
 
 <h2>4. ERD</h2>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaXBlFw1LhRYAUPeSCJceyCwQ2_UjNUtr8F4tf2mDP0A45BfCQ-I0XWYoFYtfzuPEV39y841NWG3CV0iSYLwIDbVKH-qsiooy6CWQJXpOmzJdOWRF6KzaIk3iNOVIWlLerOi_Pp4KPrwqZdXXX4UpqmgRqLjV6cPG9g_R3KDbeVAiWWNQYt9cTtUmQKR8IoZwVcUTqT_4vZVjSamvRlxA1rBdSnAcHKeqShabP5cJ8xgrm-xPiCsoOxo8TTf55bji6jEGL-fn6e-9Cwy8ke-E-fD8C12sJ94VeOI6VZb0v1g9uiTTg93pvi7t3qJ-bIk-lHe0Q2oBXcEpohCy5waKImGbzGLpLxUjfv28Gxc0rG5HvgwbxRgycj_5VS-5SzHVT_3FyoSE8qy0M-UySrj-LA1fQBVMs0t4VLn99nIjy80dJYqnWvu3gU4Rl2rncLr7_chJmZHcHlz44qKslVbJrsTkh5xdfYEieF8bYcKCcAvnTssKrjKqzcaObwCfwUvP0utEH-cHy9b-vnrRcJKirUtrEgqOrSqRWDU8sjJYxsA7od3-OFQp-KI0ilaq8tmNKhXd00K4ixajmP-GBA0VWlNSak6mx-E-oNIzWE0ecSixdn1GA_siWGTBT28O0SwFKM_bjIzwr-dRTNQF72TyECEVYlZ8doAC6lfYjvXBi0CNIZnLSP4iLtLAI5D-HuCeET_4XjD2niu5nN_mJpj2c3W3WzuFwkD1kp45LsMpj9AXclMwQi_OrhfgWNLQO43YHZ8DGolvYsdRv6DRLSi_9Yv3-nyLJWUWNCKk2nTR-PX4JGNmPbNOZvMVyrWS-8RK_MGWxGvnc_nucvdQLuOA9Bz8cdYPfiUKZxATRcjX_r-NUbkHlHnXW7MkpKMdJ97hjyNvfieQCcK2qo-DI58IuJP=w850-h932-s-no?authuser=0"  style = "width: 80%; height : 480">
+
+![wegather erd 완성본 drawio](https://github.com/Developer-Kimchi/wegether/assets/129861604/f6e0aa68-cc8b-4892-a725-62fdd9655031)
 
   
 <h2>5. 담당 업무</h2>
